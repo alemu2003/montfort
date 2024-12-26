@@ -86,7 +86,7 @@ const Footer = () => {
       {/* Footer Bottom Section */}
       <div className="bg-gray-900 py-2 text-center border-t border-gray-600">
         <p className="text-gray-400 text-sm font-small font-sulphur">
-          &copy; {currentYear} Montfort Secondary School Nyamata. All rights reserved.
+          &copy; {currentYear} Montfort Secondary School Nyamata.mugabe All rights reserved.
         </p>
       </div>
     </div>
