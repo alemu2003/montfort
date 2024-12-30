@@ -5,7 +5,7 @@ import AOS from "aos";
 const staffData = [
   {
     id: 1,
-    name: "Brother RUTSINDINTWARANE ",
+    name: "Brother RUTSINDINTWARANE Alexandre ",
     role: "Headmaster",
     phone:"+250 789 808 847",
     image: "/image/headMaster.jpg",
