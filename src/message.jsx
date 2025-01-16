@@ -12,7 +12,7 @@ const Message = () => {
       {/* Text Section */}
       <div className="text md:w-full p-4 text-center md:text-left">
         <h4 className="text-2xl font-bold text-gray-800 mb-4 md:text-2xl font-sulphur">
-          Head Master Message
+          Headmaster Message
         </h4>
         <p className="text-gray-600 leading-relaxed text-base md:text-sm font-sulphur">
           Thank you for your interest in our school. We have found that the
@@ -36,7 +36,7 @@ const Message = () => {
 
         <p className="text-gray-800 mt-4 font-semibold font-sulphur">Brother RUTSINDINTWARANE Alexandre</p>
         <span className="text-gray-600 italic text-sm font-sulphur">
-            Head Master
+            Headmaster
         </span>
       </div>
 

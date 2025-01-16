@@ -37,7 +37,7 @@ const staffData = [
   },
   {
     id: 2,
-    name: "NKORERIMANA JEAN Bosco",
+    name: "NKORELIMANA JEAN Bosco",
     role: "Secretary",
     phone:"+250 873 027 511",
     image: "/image/secretary.jpg",
@@ -63,7 +63,7 @@ const staffData = [
   },
   {
     id: 9,
-    name:"UWINGABIRE Clemantine",
+    name:"UWINGABIRE Clementine",
     role: "Matron",
     image: "/image/matron.jpg",
     phone:"+250 793 030 912",

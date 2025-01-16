@@ -1,5 +1,6 @@
 import React from 'react';
-import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaImage, FaInstagram, FaLinkedin, FaSearch, FaYoutube } from "react-icons/fa";
+import { FaSackDollar, FaWebAwesome } from 'react-icons/fa6';
 import { MdEmail } from "react-icons/md";
 import { RiTwitterXFill } from "react-icons/ri";
 import { Link } from 'react-router-dom';
@@ -28,28 +29,41 @@ const Footer = () => {
 
         {/* Brand Section */}
         <div className="w-full md:w-1/4 mb-6 md:mb-0">
-          <h4 className="text-1xl font-small font-sulphur">Motto</h4>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Knowledge</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Discpline</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Service</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Empowering Minds</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Enriching Hearts</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Learning to Lead</p>
+          <h4 className="text-1xl font-small font-sulphur">CORE VALUES</h4>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Faith in God</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Efficiency</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Integrity</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Humility</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Professionalism</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Punctuality</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Transparency</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Respect</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Love</p>
         </div>
 
         {/* News Section */}
         <div className="w-full md:w-1/4 mb-6 md:mb-0">
-          <h4 className="text-1xl font-small font-sulphur">School Features</h4>
+          <h4 className="text-1xl font-small font-sulphur">SCHOOL FEATURES</h4>
           <p className="text-gray-400 my-2 cursor-pointer text-sm font-sulphur">Religious Foundation and Values</p>
-          <p className="text-gray-400 my-2 cursor-pointer text-sm">Academic Excellence</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm"> Academic Excellence</p>
           <p className="text-gray-400 my-2 cursor-pointer text-sm">Extracurricular Activities</p>
           <p className="text-gray-400 my-2 cursor-pointer text-sm">Community Engagement</p>
           <p className="text-gray-400 my-2 cursor-pointer text-sm">Facilities</p>
           <p className="text-gray-400 my-2 cursor-pointer text-sm">Reputation</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm">Classrooms</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm">Teachers and Staff</p>
+          <p className="text-gray-400 my-2 cursor-pointer text-sm">Library</p>
         </div>
 
         {/* Social Media Section */}
-        <div className="w-full md:w-1/4 flex justify-between items-center space-x-4">
+        <div className="w-full md:w-1/4 flex justify-between items-center space-x-6">
+        <Link 
+    to={'https://www.flickr.com/people/202054527@N02/'} 
+    target='_blank'
+    className="hover:text-yellow-500"
+  >
+    <FaImage color="#FEFEFE" size={100} cursor={'pointer'} />
+  </Link>
   <Link 
     to={'https://www.facebook.com/profile.php?id=100076708597194'} 
     target='_blank'
@@ -59,7 +73,7 @@ const Footer = () => {
   </Link>
 
   <Link 
-    to={'https://www.instagram.com/'} 
+    to={'https://www.instagram.com/direct/t/27025452247099422/'} 
     target='_blank'
     className="hover:text-yellow-100"
   >
@@ -67,7 +81,7 @@ const Footer = () => {
   </Link>
 
   <Link 
-    to={'mailto:montfortss99@gmail.com'} 
+    to={'https:www.montfortss99@gmail.com'} 
     target='_blank'
     className="hover:text-yellow-500"
   >
@@ -76,17 +90,19 @@ const Footer = () => {
 
   <Link 
     to={'https://www.youtube.com/@MontfortRwanda1'} 
+    target='_blank'
     className="hover:text-yellow-500"
   >
     <FaYoutube color="#FEFEFE" size={30} cursor={'pointer'} />
   </Link>
+  
 </div>
       </div>
 
       {/* Footer Bottom Section */}
       <div className="bg-gray-900 py-2 text-center border-t border-gray-600">
         <p className="text-gray-400 text-sm font-small font-sulphur">
-          &copy; {currentYear} Montfort Secondary School Nyamata. All rights reserved.
+          &copy; {currentYear} Montfort Secondary School Nyamata.Conceptualized By Mugabe. All rights reserved.
         </p>
       </div>
     </div>

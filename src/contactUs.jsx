@@ -25,13 +25,13 @@ const ContactUs = () => {
         {/* Head Master Information Section */}
         <div className=" p-6 rounded-lg " data-aos="fade-down">
           <h3 className="text-xl font-bold text-gray-800 mb-4 font-sulphur">
-            Head Master Information
+            Headmaster Information
           </h3>
           <p className="text-gray-700 text-lg">
             <span className="font-semibold font-sulphur">Name:</span> Brother RUTSINDINTWARANE Alexandre
           </p>
           <p className="text-gray-700 text-lg mt-2">
-            <span className="font-semibold font-sulphur">Position:</span> Head Master of Montfort secondary school Nyamata
+            <span className="font-semibold font-sulphur">Position:</span> Headmaster of Montfort secondary school Nyamata
           </p>
           <p className="text-gray-700 text-lg mt-2">
             <span className="font-semibold font-sulphur">Email:</span>{" "}

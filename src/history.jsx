@@ -15,7 +15,7 @@ const History = () => {
         {/* Image Section */}
         <div className="w-full md:w-full mb-8 md:mb-0">
           <img
-            src="/image/background.jpg" // Replace with the correct image path
+            src="/image/major.JPG" // Replace with the correct image path
             alt="History of Montfort School"
             className="w-full h-[700px] rounded-lg shadow-lg"
           />
@@ -24,6 +24,18 @@ const History = () => {
 
         {/* Text Section */}
         <div className="w-full md:w-full md:pl-8 text-center md:text-left" data-aos="fade-up">
+        <p className="text-lg leading-relaxed text-gray-700 mb-4 font-sulphur">
+            <strong>Montfort Secondary School, Nyamata</strong>, This school is located in Nyamata Sector,
+             Bugesera District in the Eastern Province of Rwanda, just a few miles from Kigali city. Nyamata 
+             is a small city with a good number of schools, churches, a hospital, health center, private clinics
+              and other facilities.The school started on 11th February 2013 with only 65 students. It is an O'level
+               mixed boarding school founded and administered by Brothers of St. Gabriel. It currently has an enrolment 
+               of 118 girls, 232 boys making a total of 350. The school is able to enroll 408 students in `O` level.
+               231 of boys and 120 girls,Total 353.
+
+
+
+          </p>
           <p className="text-lg leading-relaxed text-gray-700 mb-4 font-sulphur">
             <strong>Montfort Secondary School, Nyamata</strong>, was founded by 
             the Montfort Brothers of St. Gabriel, a Catholic congregation known 
@@ -50,8 +62,7 @@ const History = () => {
           </p>
           <p className="text-lg leading-relaxed text-gray-700 mb-4 font-sulphur">
             Over the decades, Montfort Secondary School has faced and 
-            overcome numerous challenges, including rebuilding efforts during 
-            Rwanda’s post-genocide recovery period. These efforts were made 
+            overcome numerous challenges, including rebuilding, These efforts were made 
             possible through the unwavering support of the Montfort Brothers 
             and the local community.
             Science and Technology: The school is particularly known for encouraging students to excel in science subjects. 

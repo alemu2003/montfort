@@ -4,8 +4,10 @@ import 'aos/dist/aos.css';
 
 const Home = () => {
   const images = [
+    '/image/back.JPG',
     '/image/background.jpg', 
-    '/image/house.jpg',  
+    '/image/house.jpg',
+
   
   ];
 
@@ -43,7 +45,15 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            Montfort Secondary School Nyamata
+            Montfort   Secondary   School   Nyamata
+           
+          </h1>
+          <h1
+            className="text-3xl md:text-4xl font-bold text-white mb-4 font-sulphur"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
+            ----TRUTH IS LIGHT👏👏----
           </h1>
           <p
             className="text-lg md:text-xl font-medium text-gray-200 italic font-sulphur"
@@ -51,6 +61,7 @@ const Home = () => {
             data-aos-delay="400"
           >
             "Welcome to Montfort Secondary School, where excellence meets discipline. We are committed in providing quality education and shaping the future of our students.where education meets excellence."
+            
           </p>
         </div>
       </div>

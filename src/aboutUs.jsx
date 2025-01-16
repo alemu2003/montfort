@@ -16,16 +16,16 @@ const AboutUs = () => {
       </h2>
         <div className="w-full md:w-full mb-8 md:mb-0">
           <img
-            src="/image/house.jpg" // Replace with the correct path to the image
+            src="/image/back.JPG" // Replace with the correct path to the image
             alt="Montfort Secondary School"
-            className="w-full h-[700px] rounded-lg shadow-lg"
+            className="w-full h-[600px] rounded-lg shadow-lg"
           />
         </div>
         
         {/* Text Section */}
         <div className="w-full md:w-full md:pl-8 text-center md:text-left" data-aos="fade-down">
           <p className="text-1xl font-sulphur leading-relaxed text-gray-700 mb-4">
-            <strong>Montfort Secondary School, Nyamata</strong>, is a prestigious institution in Rwanda 
+            <strong>Montfort Secondary School Nyamata</strong>, is a prestigious institution in Rwanda 
             located in the Eastern Province, near the town of Nyamata in Bugesera District. Named after 
             the Montfort Brothers of St. Gabriel, the school is committed to providing values-based education 
             alongside academic excellence.As part of the Montfort Brothers of St. Gabriel, the school is rooted in 
