@@ -45,7 +45,7 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            Montfort   Secondary   School   Nyamata.....
+            Montfort   Secondary   School   Nyamata
            
           </h1>
           <h1
