@@ -16,9 +16,9 @@ const AboutUs = () => {
       </h2>
         <div className="w-full md:w-full mb-8 md:mb-0">
           <img
-            src="/image/back.JPG" // Replace with the correct path to the image
+            src="/image/banner .jpg" // Replace with the correct path to the image
             alt="Montfort Secondary School"
-            className="w-full h-[600px] rounded-lg shadow-lg"
+            className="w-full h-[1100px] rounded-lg shadow-lg"
           />
         </div>
         
