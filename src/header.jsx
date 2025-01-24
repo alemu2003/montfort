@@ -103,9 +103,7 @@ const Header = () => {
                   <li className="hover:bg-yellow-200 px-4 py-2 rounded cursor-pointer transition duration-200">
                    <Link to={'/history'}>History</Link>
                   </li>
-                  <li className="hover:bg-yellow-200 px-4 py-2 rounded cursor-pointer transition duration-200">
-                    <Link to={'/mission-vision'}>Mission & Vision</Link>   
-                  </li>
+                  
                   <li className="hover:bg-yellow-200 px-4 py-2 rounded cursor-pointer transition duration-200">
                    <Link to={'/staff'}>Staff</Link>
                   </li>
