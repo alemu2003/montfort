@@ -22,7 +22,7 @@ const Footer = () => {
           <img
               src="/image/logo.jpg"
               alt="Logo"
-              className="w-10 h-16 md:w-16 rounded-full"
+              className="h-10 md:h-16 object-contain rounded-full"
             />
             <h4 className="text-1xl font-small ml-3 mt-5 font-sulphur">Montfort Secondary School</h4>
         </div>
