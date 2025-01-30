@@ -74,7 +74,7 @@ const Experience = () => {
         
   
         pagination={{ clickable: true }}
-        autoplay={{ delay: 6000 }}
+        autoplay={{ delay: 50000 }}
         className="w-full"
       >
         {experiences.map((item) => (

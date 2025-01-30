@@ -27,11 +27,11 @@ export default function Explore() {
 
    
       <Swiper
-        slidesPerView={2} 
+        slidesPerView={1} 
         spaceBetween={30} 
         loop={true}
         autoplay={{
-          delay: 3000,
+          delay: 5000,
           disableOnInteraction: false,
         }}
         pagination={{
@@ -230,77 +230,6 @@ export default function Explore() {
             />
             <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center opacity-0">
       
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" 
-            data-aos-delay="200"
-          >
-            <img
-              src="/image/friend.jpg"
-              alt="Example 1"
-              className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center opacity-0">
-      
-            </div>
-          </div>
-          
-        </SwiperSlide>
-       
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" 
-            data-aos-delay="400"
-          >
-            <img
-              src="/image/girl.jpg"
-              alt="Example 2"
-              className="w-full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center opacity-0 ">
-            
-            </div>
-            
-          </div>
-        </SwiperSlide>
-
-        {/* Slide 3 */}
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" 
-            data-aos-delay="200"
-          >
-            <img
-              src="/image/play.jpg"
-              alt="Example 3"
-              className="w-full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-10 flex items-center justify-center opacity-0 ">
-             
-            </div>
-          </div>
-        </SwiperSlide>
-
-        {/* Slide 4 */}
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" // Animation on scroll
-            data-aos-delay="400"
-          >
-            <img
-              src="/image/visitor.jpg"
-              alt="Example 4"
-              className="w-full h-[350px] sm:h-[400px] md:h-[450px] p-8 border-[10px_10px_20px_20px]  object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-10 flex items-center justify-center opacity-0 ">
-             
             </div>
           </div>
         </SwiperSlide>
