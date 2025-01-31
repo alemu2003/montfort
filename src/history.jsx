@@ -29,9 +29,8 @@ const History = () => {
              Bugesera District in the Eastern Province of Rwanda, just a few miles from Kigali city. Nyamata 
              is a small city with a good number of schools, churches, a hospital, health center, private clinics
               and other facilities.The school started on 11th February 2013 with only 65 students. It is an O'level
-               mixed boarding school founded and administered by Brothers of St. Gabriel. It currently has an enrolment 
+               mixed boarding school founded and administered by Montfort Brothers of St Gabriel. It currently has an enrolment 
                of 118 girls, 232 boys making a total of 350. The school is able to enroll 408 students in `O` level.
-               231 of boys and 120 girls,Total 353.
 
 
 

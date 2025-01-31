@@ -13,10 +13,10 @@ const staffData = [
   },
   {
     id: 5,
-    name: "KAYIGAMBA Pascal",
+    name: "Brother KAYIGAMBA Pascal",
     role: "Bursar",
     image: "/image/bursar.jpg",
-    phone:"+250 788 463 751",
+    phone:"+250 788 463751",
     description: "Manages the school's finances, including budgets, expenses, and financial planning.",
   },
   {
@@ -29,7 +29,7 @@ const staffData = [
   },
   {
     id: 6,
-    name: "Brother MAFURU FRANCAIS Flavianus",
+    name: "Brother MAFURU FRANCIS Flavianus",
     role: "Discipline Officer",
     image: "/image/discpline.jpg",
     phone:"+250 723 873 856",

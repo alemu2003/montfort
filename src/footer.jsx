@@ -81,7 +81,7 @@ const Footer = () => {
   </Link>
 
   <Link 
-    to={'https:www.montfortss99@gmail.com'} 
+    to={'https://mail.google.com/mail/u/0/#inbox?compose=PNRMKjRmmdGxDtVFcKlQGQwKcBHsnRqDPCSvCLhRTSlZlmHJmXjwKBnkQnSRgPxNgrQmJJkQVggBsXq'} 
     target='_blank'
     className="hover:text-yellow-500"
   >
