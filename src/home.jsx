@@ -45,7 +45,7 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            Montfort   Secondary   School   Nyamata ...
+            Montfort   Secondary   School   Nyamata
            
           </h1>
           <h1
@@ -53,7 +53,7 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            ----TRUTH IS LIGHT👏👏----
+            ----TRUTH IS LIGHT👏----
           </h1>
           <p
             className="text-lg md:text-xl font-medium text-gray-200 italic font-sulphur"
