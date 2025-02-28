@@ -28,7 +28,7 @@ const ContactUs = () => {
             Headmaster Information
           </h3>
           <p className="text-gray-700 text-lg">
-            <span className="font-semibold font-sulphur">Name:</span> Bro. RUTSINDINTWARANE Alexandre
+            <span className="font-semibold font-sulphur">Name:</span> Brother RUTSINDINTWARANE Alexandre
           </p>
           <p className="text-gray-700 text-lg mt-2">
             <span className="font-semibold font-sulphur">Position:</span> Headmaster of Montfort secondary school Nyamata
