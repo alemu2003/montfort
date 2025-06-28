@@ -43,15 +43,7 @@ const staffData = [
     image: "/image/secretary.jpg",
     description: "Handles correspondence, schedules appointments, and ensures smooth office operations.",
   },
-  
-  {
-    id: 4,
-    name: "SIBOMANA JEAN Bosco",
-    role: "Director of Studies (DoS)",
-    phone:"+250 788 648 788",
-    image: "/image/dos.jpg",
-    description: "Leads academic planning and supervises curriculum delivery across all levels.",
-  },
+
   
   {
     id: 8,
