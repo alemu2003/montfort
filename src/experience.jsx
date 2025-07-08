@@ -36,7 +36,7 @@ const Experience = () => {
     
     {
       id: 2,
-      image: "/image/st.jpg",
+      image: "/image/st.JPG",
       text: "The school taught me that discipline is the foundation of success. Whether it was punctuality, following school rules, or staying focused on my studies, I’ve learned that discipline is key.This message speaks to how structure and discipline in a school environment help students develop responsibility and focus.At Montfort, I felt like I belonged. There was never a time when I felt like an outsider. The inclusive atmosphere made school life much more enjoyable.A sense of belonging is crucial to a student’s happiness and success. This message reflects the positive, welcoming atmosphere of the school.",
     },
     {
