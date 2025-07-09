@@ -6,7 +6,7 @@ const Home = () => {
   const images = [
     '/image/back.JPG',
     '/image/background.jpg', 
-    '/image/house.JPG',
+    '/image/front.JPG',
 
   
   ];

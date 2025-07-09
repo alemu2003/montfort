@@ -15,7 +15,7 @@ const History = () => {
         {/* Image Section */}
         <div className="w-full md:w-full mb-8 md:mb-0">
           <img
-            src="/image/major.JPG" // Replace with the correct image path
+            src="/image/teacher.JPG" // Replace with the correct image path
             alt="History of Montfort School"
             className="w-full h-[700px] rounded-lg shadow-lg"
           />

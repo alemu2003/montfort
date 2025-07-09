@@ -40,15 +40,14 @@ export default function Explore() {
         modules={[Pagination, Autoplay]} 
         className="mySwiper w-full sm:w-10/12 md:w-full"
       >
-
-      <SwiperSlide>
+        <SwiperSlide>
           <div
             className="relative group"
             data-aos="fade-up" 
             data-aos-delay="200"
           >
             <img
-              src="/image/com.jpg"
+              src="/image/back.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -64,7 +63,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/block.jpg"
+              src="/image/front.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -80,7 +79,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S1A.jpg"
+              src="/image/hard.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -96,7 +95,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S1B.jpg"
+              src="/image/ruka.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -112,7 +111,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S1C.jpg"
+              src="/image/st.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -128,7 +127,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S1D.jpg"
+              src="/image/teacher.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -144,7 +143,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S1E.jpg"
+              src="/image/ruka1.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -160,7 +159,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S2A.jpg"
+              src="/image/ruka2.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -176,7 +175,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S2B.jpg"
+              src="/image/ruka3.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
@@ -192,39 +191,7 @@ export default function Explore() {
             data-aos-delay="200"
           >
             <img
-              src="/image/S2C.jpg"
-              alt="Example 1"
-              className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center opacity-0">
-      
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" 
-            data-aos-delay="200"
-          >
-            <img
-              src="/image/S3A.jpg"
-              alt="Example 1"
-              className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
-            />
-            <div className="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center opacity-0">
-      
-            </div>
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div
-            className="relative group"
-            data-aos="fade-up" 
-            data-aos-delay="200"
-          >
-            <img
-              src="/image/S3B.jpg"
+              src="/image/ruka4.JPG"
               alt="Example 1"
               className="full h-[350px] sm:h-[400px] md:h-[450px]  p-8 rounded-lg object-cover"
             />
