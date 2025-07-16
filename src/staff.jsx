@@ -8,7 +8,7 @@ const staffData = [
     name: "Brother RUTSINDINTWARANE Alexandre ",
     role: "Headmaster",
     phone:"+250 789 808 847",
-    image: "/image/headMaster.jpg",
+    image: "/image/master7.JPG",
     description: "Provides strategic leadership to the school and oversees all academic and administrative activities.",
   },
   {

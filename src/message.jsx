@@ -10,6 +10,7 @@ const Message = () => {
   return (
     <div className="message-container flex flex-col md:flex-row items-center justify-between p-12 md:p-8 bg-gray-100 shadow-lg rounded-lg" data-aos="fade-up">
       {/* Text Section */}
+      
       <div className="text md:w-full p-4 text-center md:text-left">
         <h4 className="text-2xl font-bold text-gray-800 mb-4 md:text-2xl font-sulphur">
           Headmaster Message
@@ -43,13 +44,13 @@ const Message = () => {
       {/* Image Section */}
       <div className="image md:w-1/2 flex justify-center mt-6 md:mt-0">
         <img
-          src="/image/headMaster.jpg"
+          src="/image/master4.JPG"
           alt="Headmaster"
           className="rounded-full shadow-lg h-64 w-64 object-cover"
         />
       </div>
     </div>
+    
   );
 };
-
 export default Message;

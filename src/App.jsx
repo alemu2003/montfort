@@ -1,6 +1,7 @@
 import {BrowserRouter,Routes,Route} from 'react-router-dom';
 import Header from './header';
 import Home from './home';
+import Announcement from './announcement';
 import Message from './message';
 import Experience from './experience';
 import Gallery from './gallery';
@@ -22,6 +23,7 @@ function App() {
         <>
         <Header />
         <Home />
+        <Announcement />
         <Message />
         <Experience />
         <Gallery />
