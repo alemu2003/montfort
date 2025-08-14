@@ -14,13 +14,14 @@ const Announcement = () => {
       description: "Ubuyobozi bwa MONTFORT SECONDARY SCHOOL NYAMATA buramenyesha ababyeyi bose ko bwatangaje amabwiriza yo kwakira abanyeshuri bashya mu mwaka w'amashuri 2025-2026.",
       fileUrl: "/files/AMATANGAZO.pdf",
     },
-    /*
+    
     {
       id: 2,
-      title: "Parents’ Day Scheduled for August 10",
-      description: "Parents are invited to meet teachers and discuss students' progress. Please collect your invitation letters in the admin office.",
+      title: "Ibisabwa mu mwaka w'amashuli wa 2025-2026",
+      description: "Ubuyobozi bwa MONTFORT SECONDARY SCHOOL NYAMATA bwatangaje ibisabwa  kubazatangira umwaka w'amashuri 2025-2026.",
       fileUrl: "/files/parents-day-invitation.pdf",
     },
+    /*
     {
       id: 3,
       title: "Prefect Campaigns Begin Next Week",

@@ -24,7 +24,7 @@ const Footer = () => {
               alt="Logo"
               className="h-10 md:h-16 object-contain rounded-full"
             />
-            <h4 className="text-1xl font-small ml-3 mt-5 font-sulphur">Montfort Secondary School</h4>
+            <h4 className="text-1xl font-small ml-3 mt-5 font-sulphur"></h4>
         </div>
 
         {/* Brand Section */}
@@ -57,13 +57,6 @@ const Footer = () => {
 
         {/* Social Media Section */}
         <div className="w-full md:w-1/4 flex justify-between items-center space-x-6">
-        <Link 
-    to={'https://www.flickr.com/people/202054527@N02/'} 
-    target='_blank'
-    className="hover:text-yellow-500"
-  >
-    <FaImage color="#FEFEFE" size={100} cursor={'pointer'} />
-  </Link>
   <Link 
     to={'https://www.facebook.com/profile.php?id=100076708597194'} 
     target='_blank'
@@ -77,7 +70,7 @@ const Footer = () => {
     target='_blank'
     className="hover:text-yellow-100"
   >
-    <FaInstagram color="#FEFEFE" size={30} cursor={'pointer'} />
+    <FaInstagram color="#fefefeff" size={30} cursor={'pointer'} />
   </Link>
 
   <Link 
