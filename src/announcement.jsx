@@ -19,7 +19,7 @@ const Announcement = () => {
       id: 2,
       title: "Ibisabwa mu mwaka w'amashuli wa 2025-2026",
       description: "Ubuyobozi bwa MONTFORT SECONDARY SCHOOL NYAMATA bwatangaje ibisabwa  kubazatangira umwaka w'amashuri 2025-2026.",
-      fileUrl: "/files/parents-day-invitation.pdf",
+      fileUrl: "/files/babyeyi.pdf",
     },
     /*
     {
